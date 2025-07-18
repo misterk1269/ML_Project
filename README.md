@@ -83,6 +83,15 @@ Performance was evaluated using the **R² Score** on test data:
 ---
 ## How to Run
 
-**Clone the repo**
+1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/bangalore-house-price-prediction.git
+   git clone https://github.com/misterk1269/ML_Project.git
+   
+2. Install required libraries
+   ```bash
+   pip install -r requirements.txt
+   
+3. Run the notebook
+   ```bash
+   jupyter notebook 
+
