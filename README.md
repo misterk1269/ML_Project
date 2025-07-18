@@ -46,7 +46,7 @@ The dataset contains the following features:
 - **Number of BHK (bedroom, hall, kitchen)**
 - **Price** (target variable)
 
-*Source: Local CSV file or Kaggle dataset*
+*Source: Kaggle dataset*
 
 ---
 
